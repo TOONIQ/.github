@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://tooniq.co.jp/favicon.svg" width="80" alt="TOONIQ" />
-
 # TOONIQ LLC
 
 **AIでアニメ制作の構造を根本から変える**
@@ -9,6 +7,7 @@
 東京理科大学公認 学生スタートアップ企業
 
 [![Website](https://img.shields.io/badge/tooniq.co.jp-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooniq.co.jp)
+[![X](https://img.shields.io/badge/@tooniq__jp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tooniq_jp)
 [![Contact](https://img.shields.io/badge/contact@tooniq.co.jp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tooniq.co.jp)
 
 </div>
