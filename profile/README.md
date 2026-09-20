@@ -19,7 +19,7 @@
 
 | Product | Description |
 |---------|-------------|
-| **AnimaTime** | アニメ制作向けクラウド制作進行ツール — スケジュール管理・進捗可視化 |
+| **[AnimaTime](https://animatime.com/)** | アニメ制作向けクラウド制作進行ツール — スケジュール管理・進捗可視化 |
 | **[Iroha](https://iroha.studio)** | 手書きタイムシートの読み取り効率化ソフトウェア |
 | **[ポケット制作進行](https://github.com/TOONIQ/pocket-seishin)** | フリーアニメーター向けPWA — カット管理・締切アラート・収入トラッキング |
 
