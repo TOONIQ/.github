@@ -2,9 +2,10 @@
 
 # TOONIQ LLC
 
-**AIでアニメ制作の構造を根本から変える**
+**今のワークフローに自然に溶け込むDXで、つくる人を支える**
 
 東京理科大学公認 学生スタートアップ企業
+経済産業省 DX認定事業者
 
 [![Website](https://img.shields.io/badge/tooniq.co.jp-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooniq.co.jp)
 [![X](https://img.shields.io/badge/@tooniq__jp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tooniq_jp)
@@ -18,21 +19,11 @@
 
 | Product | Description |
 |---------|-------------|
-| **[Iroha](https://iroha.studio)** | AI搭載アニメQC自動化 — 作画チェック・リテイク検出を自動化 |
-| **[ポケット制作進行](https://github.com/TOONIQ/pocket-seishin)** | フリーアニメーター向けPWA — カット管理・締切アラート・収入トラッキング |
 | **AnimaTime** | アニメ制作向けクラウド制作進行ツール — スケジュール管理・進捗可視化 |
-| **Slotty** | 採用チーム向け日程調整自動化 — 空き時間自動検出→カレンダー登録 |
+| **[Iroha](https://iroha.studio)** | 手書きタイムシートの読み取り効率化ソフトウェア |
+| **[ポケット制作進行](https://github.com/TOONIQ/pocket-seishin)** | フリーアニメーター向けPWA — カット管理・締切アラート・収入トラッキング |
 
 ### Services
 
 - 運用設計支援（開発・制作・バックオフィス）
-- ChatBot・自動化ツール開発
-- Web制作
 
----
-
-<div align="center">
-
-*Built with curiosity, shipped with conviction.*
-
-</div>
