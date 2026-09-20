@@ -5,6 +5,7 @@
 **今のワークフローに自然に溶け込むDXで、つくる人を支える**
 
 東京理科大学公認 学生スタートアップ企業
+
 経済産業省 DX認定事業者
 
 [![Website](https://img.shields.io/badge/tooniq.co.jp-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooniq.co.jp)
